@@ -1,7 +1,7 @@
 # Site settings
 title: YTG Blog
 SEOTitle: 农夫果园的博客 | YTG Blog
-header-img: img/backgroud-bg.jpg
+header-img: img/post-bg-desk.jpg
 email: 1756284275@qq.com
 description: "Every failure is leading towards success."
 keyword: "YTG, YTG Blog, 农夫果园的博客, name-longming, 袁田果, iOS, Apple, iPhone"
@@ -108,7 +108,7 @@ friends: [
         title: "码云Gitee",
         href: "https://gitee.com/yuan_tianguo/dashboard/projects"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Bilibili",
+        href: "https://www.bilibili.com/"
     }
 ]
